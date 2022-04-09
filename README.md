@@ -1,4 +1,4 @@
-## Oi eu sou o Kauan Mendes, Estudante de ADS na SpTech!
+## Oii eu sou o Kauan Mendes, Estudante de ADS na SpTech!
 
 Atualmente sou Desenvolvedor Back-End e estudante de Análise e Desenvolvimento de sistemas pela São Paulo Tech School. <br>
 
