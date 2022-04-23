@@ -31,3 +31,4 @@ Atualmente sou Desenvolvedor Back-End e estudante de Análise e Desenvolvimento 
  ![Snake animation](https://github.com/kauan-mendes/kauan-mendes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+.
