@@ -20,8 +20,9 @@ Atualmente sou Desenvolvedor Back-End e estudante de Análise e Desenvolvimento 
 </div>
   
    ## Dev back end na 
+  <img align="center" alt="Kauan-Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" width="40"/>
   
-  <img align="center" alt="Kauan-Git" src="[https://img.icons8.com/fluent/48/000000/mysql-logo.png](https://i0.wp.com/teste708191542.wpcomstaging.com/wp-content/uploads/2022/05/Box-Delivery.png?fit=2000%2C2000&ssl=1)" height="30" width="40"/>
+  
   
   ## Conecte-se comigo
 <div> 
