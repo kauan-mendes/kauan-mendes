@@ -19,6 +19,9 @@ Atualmente sou Desenvolvedor Back-End e estudante de Análise e Desenvolvimento 
   
 </div>
   
+   ## Dev back end na 
+  https://i0.wp.com/teste708191542.wpcomstaging.com/wp-content/uploads/2022/05/Box-Delivery.png?fit=2000%2C2000&ssl=1
+  
   ## Conecte-se comigo
 <div> 
   <a href="https://www.youtube.com/c/KauanMendes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
