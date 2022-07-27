@@ -16,7 +16,7 @@ Atualmente sou Desenvolvedor Back-End e estudante de Análise e Desenvolvimento 
   
   <img align="center" alt="Kauan-Git" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" height="30" width="40"/>
   
-  <img align="center" alt="Kauan-Git" src="https://www.phpsc.com.br/uploads/2018/meetup-php-joinville.jpg" height="30" width="40"/>
+  <img align="center" alt="Kauan-Git" src="[https://www.phpsc.com.br/uploads/2018/meetup-php-joinville.jpg](https://files.tecnoblog.net/wp-content/uploads/2010/06/elephpant.png)" height="30" width="40"/>
   
   
   
