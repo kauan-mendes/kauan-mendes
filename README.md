@@ -18,6 +18,9 @@ Atualmente sou Desenvolvedor Back-End e estudante de Análise e Desenvolvimento 
   
   <img align="center" alt="Kauan-Git" src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" height="30" width="40"/>
   
+  <img align="center" alt="Kauan-Git" src="[https://iconape.com/wp-content/files/hc/353261/png/353261.png](https://seeklogo.com/images/L/laravel-logo-9B01588B1F-seeklogo.com.png)" height="30" width="40"/>
+  
+  
   
   
   
