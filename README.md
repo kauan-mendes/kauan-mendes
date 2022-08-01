@@ -1,5 +1,4 @@
-<div><img src="https://i.imgur.com/bLIeMsz.mp4"></div>
- <img align="center" src="https://i.imgur.com/bLIeMsz.mp4">
+
  <img align="right" src="https://i.imgur.com/rQhEWIp.gif" >
 
   <a href="https://github.com/kauan-mendes">
