@@ -2,7 +2,7 @@
  <img align="right" src="https://i.imgur.com/rQhEWIp.gif" >
 
   <a href="https://github.com/kauan-mendes">
-  <img width="1040" height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan-mendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan-mendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-mendes&layout=compact&langs_count=7&theme=dracula"/> 
     
 </div>
