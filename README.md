@@ -1,6 +1,5 @@
-## Ola eu sou o Kauan Mendes, Estudante de ADS na SpTech!
-Atualmente sou Desenvolvedor Back-End e estudante de Análise e Desenvolvimento de sistemas pela São Paulo Tech School. <br>
-<div align="center">
+<div><img src="https://github.com/kauan-mendes/kauan-mendes/issues/1#issue-1324545526"></div>
+
   <a href="https://github.com/kauan-mendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan-mendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-mendes&layout=compact&langs_count=7&theme=dracula"/> 
