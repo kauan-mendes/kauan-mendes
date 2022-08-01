@@ -1,9 +1,9 @@
 
- <img  width="791" src="https://i.imgur.com/4NaL5Tz.gif" >
+ <img  width="791" src="https://i.imgur.com/IsNB7Dm.gif" >
 
   <a href="https://github.com/kauan-mendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan-mendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-mendes&layout=compact&langs_count=7&theme=dracula"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-mendes&layout=compact&langs_count=7&theme=highcontrast"/> 
     
 </div>
   
