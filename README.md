@@ -1,6 +1,6 @@
 <div><img src="https://i.imgur.com/bLIeMsz.mp4"></div>
  <img align="center" src="https://i.imgur.com/bLIeMsz.mp4">
- <img align="right" src="https://c.tenor.com/ebsXZlhpxEQAAAAC/gon-freecss-hxh.gif" width="150px">
+ <img align="right" src="https://c.tenor.com/ebsXZlhpxEQAAAAC/gon-freecss-hxh.gif" >
 
   <a href="https://github.com/kauan-mendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan-mendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
