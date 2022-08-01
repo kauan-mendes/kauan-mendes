@@ -1,4 +1,4 @@
-<div><img src="[https://github.com/kauan-mendes/kauan-mendes/issues/1#issue-1324545526](https://i.imgur.com/bLIeMsz.mp4)"></div>
+<div><img src="https://i.imgur.com/bLIeMsz.mp4"></div>
 
   <a href="https://github.com/kauan-mendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan-mendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
