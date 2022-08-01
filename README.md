@@ -1,5 +1,5 @@
 
- <img  width="793" src="https://i.imgur.com/IsNB7Dm.gif" >
+ <img  width="791" src="https://i.imgur.com/IsNB7Dm.gif" >
 
   <a href="https://github.com/kauan-mendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan-mendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
