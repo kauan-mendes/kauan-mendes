@@ -20,7 +20,7 @@
   <img align="center" alt="Kauan-Git" src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" height="30" width="40"/>
   
   <img align="center" alt="Kauan-Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="30" width="40"/>
-  
+  <br>
   
    ## Github Trophies 🏆<br><br>
    <img src="https://github-profile-trophy.vercel.app/?username=kauan-mendes&title=Followers,Stars,Commit,Repositories&theme=gruvbox&margin-w=15" >
@@ -29,6 +29,7 @@
   
   
 </div>
+<br>
   
    ## Dev back end na 
   <img align="center" alt="Kauan-Git" src="https://i0.wp.com/teste708191542.wpcomstaging.com/wp-content/uploads/2022/05/Box-Delivery.png?fit=2000%2C2000&ssl=1" height="30" width="40"/>
