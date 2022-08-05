@@ -22,7 +22,7 @@
   <img align="center" alt="Kauan-Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="30" width="40"/>
   
   
-  - 🏆  Github Trophies<br><br>
+   🏆Github Trophies<br><br>
    <img src="https://github-profile-trophy.vercel.app/?username=kauan-mendes&title=Followers,Stars,Commit,Repositories&theme=gruvbox&margin-w=15" >
 
   
