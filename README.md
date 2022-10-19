@@ -26,9 +26,7 @@
   
    ## Github Trophies 🏆<br><br>
    <img src="https://github-profile-trophy.vercel.app/?username=kauan-mendes&title=Followers,Stars,Commit,Repositories&theme=gruvbox&margin-w=15" >
-
-  
-  
+ 
 </div>
 <br>
   
