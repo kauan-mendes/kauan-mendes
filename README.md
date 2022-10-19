@@ -20,6 +20,8 @@
   <img align="center" alt="Kauan-Git" src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" height="30" width="40"/>
   
   <img align="center" alt="Kauan-Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="30" width="40"/>
+ 
+ <img align="center" alt="Kauan-Git" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png)" height="30" width="40"/>
   <br>
   
    ## Github Trophies 🏆<br><br>
@@ -42,7 +44,6 @@
   <a href="https://www.instagram.com/kauanmendess_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kauanbrmendes2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauan-mendes-527729210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/kauan-mendes-527729210/" target="_blank"><img src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" target="_blank"></a> 
  
  
  ![Snake animation](https://github.com/kauan-mendes/kauan-mendes/blob/output/github-contribution-grid-snake.svg)
