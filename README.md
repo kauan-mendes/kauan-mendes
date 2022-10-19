@@ -31,7 +31,7 @@
 <br>
   
    ## Dev back end na 
-  <img align="center" alt="Kauan-Git" src="https://i0.wp.com/teste708191542.wpcomstaging.com/wp-content/uploads/2022/05/Box-Delivery.png?fit=2000%2C2000&ssl=1" height="30" width="40"/>
+  <img align="center" alt="Kauan-Git" src="https://i0.wp.com/teste708191542.wpcomstaging.com/wp-content/uploads/2022/05/Box-Delivery.png?fit=2000%2C2000&ssl=1" height="60"/>
   
   
   
