@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-mendes&layout=compact&langs_count=7&theme=highcontrast"/> 
     
 </div>       
-      
+       
   ## Habilidades
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
