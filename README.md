@@ -17,7 +17,7 @@
   
   <img align="center" alt="Kauan-Git" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" height="30" width="40"/>
   
-  <img align="center" alt="Kauan-Git" src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" height="30" width="40"/>
+  <img align="center" alt="Kauan-Git" src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" height="40" width="40"/>
   
   <img align="center" alt="Kauan-Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="40" width="40"/>
  
