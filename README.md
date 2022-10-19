@@ -13,7 +13,7 @@
   <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kauan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Kauan-Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" width="40"/>
+  <img align="center" alt="Kauan-Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40"/>
   
   <img align="center" alt="Kauan-Git" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" height="40" width="40"/>
   
