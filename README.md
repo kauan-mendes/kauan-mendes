@@ -21,7 +21,7 @@
   
   <img align="center" alt="Kauan-Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="30" width="40"/>
  
- <img align="center" alt="Kauan-Git" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png)" height="30" width="40"/>
+ <img align="center" alt="Kauan-Git" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" height="30" width="40"/>
   <br>
   
    ## Github Trophies 🏆<br><br>
