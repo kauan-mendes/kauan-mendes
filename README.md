@@ -21,7 +21,7 @@
   
   <img align="center" alt="Kauan-Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="30" width="40"/>
  
- <img align="center" alt="Kauan-Git" src="https://www.shareicon.net/data/512x512/2016/09/23/833700_windows_512x512.png" height="30" width="40"/>
+ <img align="center" alt="Kauan-Git" src="https://www.shareicon.net/data/512x512/2016/09/23/833700_windows_512x512.png" height="40" width="40"/>
   <br>
   
    ## Github Trophies 🏆<br><br>
