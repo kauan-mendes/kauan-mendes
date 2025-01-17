@@ -1,6 +1,6 @@
    
   
- <img  width="791" src="https://imgur.com/a/zqSO4cz" >
+ <img  width="791" src="https://i.imgur.com/YwlVA0r.gif" >
 
   <a href="https://github.com/kauan-mendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan-mendes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
